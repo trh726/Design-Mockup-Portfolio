@@ -1,0 +1,47 @@
+body {
+  color: #2d3c49;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+}
+
+h1 {
+  font-weight: 100;
+  font-size: 40px;
+}
+
+h2 {
+  color: #7d97ad;
+}
+
+hr {
+  background-color: #7d97ad;
+  height: 5px;
+  width: 100%;
+}
+
+article {
+  margin: 15px auto;
+}
+
+footer {
+  height: 75px;
+  background-color: #7d97ad;
+}
+
+.logo {
+  fill: #8D6E63;
+}
+
+.pointer:hover {
+  cursor: pointer;
+}
+
+.description {
+  margin-top: 15px;
+}
+
+@media screen and (max-width: 992px) {
+  .feature-title {
+    text-align: center;
+  }
+}
