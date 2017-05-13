@@ -1,6 +1,6 @@
 body {
   color: #2d3c49;
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
   font-weight: 300;
 }
 
@@ -26,10 +26,6 @@ article {
 footer {
   height: 75px;
   background-color: #7d97ad;
-}
-
-.logo {
-  fill: #8D6E63;
 }
 
 .pointer:hover {
